@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Fix OBB xywh-angle concatenation bug (#7404)
