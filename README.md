@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Hold failed upload metrics and upload with next upload metrics (#8513)
