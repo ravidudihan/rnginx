@@ -1,1 +1,1 @@
-fix print val map
+Update neural-magic.md (#7347)
