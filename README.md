@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
