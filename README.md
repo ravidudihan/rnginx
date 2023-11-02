@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
