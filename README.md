@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fix TFLite INT8 for OBB (#7989)
