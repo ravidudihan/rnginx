@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Optimize function calls to method calls (#8507)
