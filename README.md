@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
