@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
