@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
