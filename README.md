@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Tracker: clean up GMC (#8003)
