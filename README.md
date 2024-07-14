@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Explorer with LanceDB, Actions and Docs updates (#7487)
