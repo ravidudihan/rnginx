@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Update TFLite Docs images (#8605)
