@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Object Counter improvements (#8648)
