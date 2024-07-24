@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
