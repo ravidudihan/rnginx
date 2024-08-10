@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Bounding Box to OBB conversion (#7572)
