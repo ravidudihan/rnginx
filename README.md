@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+ultralytics 8.0.229 add model.embed() method (#7098)
