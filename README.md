@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+OpenVino 2024.0.0 (#8726)
